@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  SimpleCalculator
 //
-//  Created by HARISH NOMULA on 05/06/23.
+//  Created by Vinay Muthyapu on 05/06/23.
 //
 
 import UIKit
